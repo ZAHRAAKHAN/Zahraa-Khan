@@ -21,7 +21,7 @@ which raises the dispute; "is music cultivating synthesia or dissection?"
   
   
   
-  
+ <h2>Synthesia</h2>
   
   
 | Dictionary | Definition |
@@ -38,12 +38,7 @@ _____________________
    "An example Orange": "Warm and inspiring, relaxing",
  }
 
- <h5>      </h5>
  
-
-   
-   
-   
    
    
    
