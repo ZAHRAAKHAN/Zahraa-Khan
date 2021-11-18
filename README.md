@@ -20,17 +20,18 @@ which raises the dispute; "is music cultivating synthesia or dissection?"
   
   
   
-| Dictionary | Definition |
+| Types      | Definition |
 | ---------- | ---------- |
-| Synthesia  | when you hear music but you see\hear shapes, colours, words or a name. 
+| (Neurological condition) AKA Synthesia  | when you hear music but you see\hear shapes, colours, words or a name. 
 | Emotional  | emotional sensation in which a conflict between the photism and presented a colour of stimulus make evoke a feeling of discomfort depending on the colour type. 
-
-  ```json
- {
-   "An example Green": "Stimulating and creative",
-   "An example Orange": "Warm and inspiring, relaxing",
- }
-
+| Chromosthesia | specifically when a person hears sound they visualise the colours through playing an intrument.
+| Phonemes | triggers synesthetic tastes.. after you listen to the piano e.g
+| Metaphor | seeing the similar in the dissimilar-e.g most commonly seen by artists, novelists, musicians and painters in their work.
+  _________
+  
+ <h4>e.g: Green 'Stimulating and creative'</h4>
+ <h4>e.g: Orange 'Warm and inspiring, relaxing'</h4>
+   
 
 
 
