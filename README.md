@@ -9,7 +9,8 @@
  
 <h6>Social media doesn’t simply imply good BUT bad tackles a case of emotional synthesia.<h6>
  
- <p>In the current situation, where people are very much influenced from social media, especially when there’s constant pressure for 'new' music, we repeatedly have to adapt to updating to new communication technology therefore leading to the question of, "who rules over music?". Music has installed into a man made robot(sounds definitely intimidating) yet has played a key role in shaping the music/technology industry. Moreover, technology has changed how people produce music. That’s to say that overtime people to the point have felt anxious or restrained when they hear a certain timbre.
+ <p>In the current situation, where people are very much influenced from social media, especially when there’s constant pressure for 'new' music, we repeatedly have to adapt to updating to new communication technology therefore leading to the question of, "who rules over music?".
+  Music has installed into a man made robot(sounds definitely intimidating) yet has played a key role in shaping the music/technology industry. Moreover, technology has changed how people produce music. That’s to say that overtime people to the point have felt anxious or restrained when they hear a certain timbre.
   
 Such a compatible and tenacious relationship arises into 'music dependence,'
 which raises the dispute; "is music cultivating synthesia or dissection?" 
