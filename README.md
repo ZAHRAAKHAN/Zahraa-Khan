@@ -23,7 +23,7 @@ which raises the dispute; "is music cultivating synthesia or dissection?"
 | Dictionary | Definition |
 | ---------- | ---------- |
 | Synthesia  | when you hear music but you see\hear shapes, colours, words or a name. 
-| Emotional  | emotional sensation in which a conflict between the photism and presented a colour of stimulus make evoke a feeling of discomfort depending on the colour type.
+| Emotional  | emotional sensation in which a conflict between the photism and presented a colour of stimulus make evoke a feeling of discomfort depending on the colour type. 
 
   ```json
  {
@@ -31,7 +31,7 @@ which raises the dispute; "is music cultivating synthesia or dissection?"
    "An example Orange": "Warm and inspiring, relaxing",
  }
 
-_____________________
+
 
 
   
