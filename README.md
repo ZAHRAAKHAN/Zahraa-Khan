@@ -42,6 +42,16 @@ which raises the dispute; "is music cultivating synesthesia or dissection?"
  
  <h6>Conducting an experiment using a recording of a piano tune and uploading it so that i can experiment with coloured lighting and add in some geometric shapes.  The aim is to create a electric keyboard that signals a persons mood through different colours and shapes whilst listening or playing something random, will detect a persons feelings. There are many different ways we can use creative computing to inable us to recognise and detect synesthesia through playing an intrument, stimulating our brains to think more openly. Through digitally designing 2D motion graphics, line/geometric animation and waveform animation which can visually represent music synesthesia.<h/6>
   
+  <h4>Trying out with motion graphics on Adobe After Effects<h/4>
+   
+   <h3>I included a song and created an animation using coloured lightening and shapes<h/3>
+   
+
+https://user-images.githubusercontent.com/94451630/142620183-610f5efe-b838-4c33-a39d-da786ea71025.mp4
+
+
+  
+  
   <h4>Colour theory<h/4>
    
    <h6>Colour is represented quite differently when it correlates music-(synesthesia) and there are so many different types. Let m  
@@ -66,40 +76,32 @@ which raises the dispute; "is music cultivating synesthesia or dissection?"
   
  
 <h6>It all starts with our DNA and our cranial nerves in the human body. Cranial nerves are the pathways through which environmental infor/(sensation) is directly communicated to the brain, leading to perception. In simple form its the occurrence when one sensory experience automatically triggers another sense.
+
+ ![IMG_3432](https://user-images.githubusercontent.com/94451630/142623582-f0e3331a-2c84-4a5f-910b-cb1c49041ab1.JPG)
  
+
  _______________________________________________
  
  <h4>Science & tech<h/4>
   
-  <h3>IF YOU DIDN'T KNOW ONLY 4% OF THE WORLD POPULATION HAS 'SYNESTHESIA'<H/3>
+  <h3>IF YOU DIDN'T KNOW ONLY 4% OF THE WORLDS POPULATION HAS 'SYNESTHESIA'SOME FORM<H/3>
    
-   <h6>'music dependence'-
+   <h6>'music dependence'-is very common in synesthesia according to Carol Steen, the co-founder of the American Synesthesia Association. Says that many peoplle whose jobs related to music and technology converts any sort of information to a visual representation- this is an example of intentional synesthesia. Its also agreed by philosopher, that those who have Synesthesia are the ones who have better memory. The opposite of this is 'An-es-the-sia'having no feeling.
    
-   
-   
-   
-   
-   ___________________________________
+      ___________________________________
    
    <h4>Supported Experiments<h/4> + <h4>Secondary Research<h/4>
     
-    +++++++++++++++++++++
-    
-    https://www.youtube.com/watch?v=cEQ8-75qKIE&t=30s
-    
-    https://www.youtube.com/watch?v=20faPwXUbb4
-    
-    https://www.youtube.com/watch?v=UC-LrHn-a0o&t=207s
-    
-    https://www.youtube.com/watch?v=5f_Rrz4XK5c
+    <h5>Most of my research came from YouTube and articles...<h/5>
      
-    
-    
+    ![Untitled_Artwork](https://user-images.githubusercontent.com/94451630/142627117-c6bc6599-c039-49a9-b247-380d1ba82540.jp     
     
     <h4>Reflection<h/4>
     
-     
-     
+     <h6>I initially thought creative computing was all about coding and i don't favour working with coding that much, as i thought it would be very boring. Nevertheless, with an open-mind i was able to find myself actually enjoying it. I've learnt a ton of new things about creative computing and was really enjoyable making the proposal, as i got to do a lot of it independently. As this was my first time doing programming, it went really well with the research i've found to secure my idea. Through this week's study, i was able to complete a circuit after many failures of where to put each wire and kept having errors however it was a success in the end. Although i made a proposal about how to recognise emotional synesthesia or synesthesia in general through music, i would like to still continue by physically making it on Adobe After Effects after this project is finished. As it could be something useful in the world of pyschology and tech and music. Also, i beleieve now that things are having rapid development its sort of easier to connect science to music with technology. Plus it's rare to see art combining with computer/technology. And now that the world is becoming more and more computer based its without doubt that this will be popular.<h/6>
+      
+      
+      
      
     
      
