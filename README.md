@@ -73,7 +73,7 @@ which raises the dispute; "is music cultivating synesthesia or dissection?"
   
   <h3>IF YOU DIDN'T KNOW ONLY 4% OF THE WORLD POPULATION HAS 'SYNESTHESIA'<H/3>
    
-   <h6>
+   <h6>'music dependence'-
    
    
    
@@ -95,7 +95,8 @@ which raises the dispute; "is music cultivating synesthesia or dissection?"
      
     
     
-    <h4>
+    
+    <h4>Reflection<h/4>
     
      
      
