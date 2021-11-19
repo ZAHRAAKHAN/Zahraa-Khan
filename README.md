@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/94451630/142620183-610f5efe-b838-4c33-
 
   
  
-<h6>It all starts with our DNA and our cranial nerves in the human body. Cranial nerves are the pathways through which environmental infor/(sensation) is directly communicated to the brain, leading to perception. In simple form its the occurrence when one sensory experience automatically triggers another sense.
+<h6>It all starts with our DNA and our cranial nerves in the human body. Cranial nerves are the pathways through which environmental information/(sensation) is directly communicated to the brain, leading to perception. In simple form its the occurrence when one sensory experience automatically triggers another sense.
 
  ![IMG_3432](https://user-images.githubusercontent.com/94451630/142623582-f0e3331a-2c84-4a5f-910b-cb1c49041ab1.JPG)
  
