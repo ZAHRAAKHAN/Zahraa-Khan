@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/94451630/142620183-610f5efe-b838-4c33-
     
 <h6>I initially thought creative computing was all about coding and i don't favour working with coding that much, as i thought it would be very boring. Nevertheless, with an open-mind i was able to find myself actually enjoying it. I've learnt a ton of new things about creative computing and was really enjoyable making the proposal, as i got to do a lot of it independently. As this was my first time doing programming, it went really well with the research i've found to secure my idea. Through this week's study, i was able to complete a circuit after many failures of where to put each wire and kept having errors however it was a success in the end. As it could be something useful in the world of pyschology and tech and music. Also, i beleieve now that things are having rapid development its sort of easier to connect science to music with technology. Plus it's rare to see art combining with computer/technology. And now that the world is becoming more and more computer based its without doubt that this will be popular. Eventhough this was a week's project i would still like to comeback and produce the machine that allows pyschologists under the human brain and its senses through music and technology as it'll be a fun and advanced way of understanding Synesthesia. By doing so i'll improve my programming skills and Ardunio/Adobe skills.<h/6>     
 
- <h5>THANK Y0U READING MY PROPOSAL... :) 
+ <h5>THANK Y0U FOR READING MY PROPOSAL
    
  
       
